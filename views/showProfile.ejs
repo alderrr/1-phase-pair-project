@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>TEST</h1>
+    <% profiles.forEach((el) => { %>
+        <p><%= el.nickname %></p>
+        <p><%= el.picture %></p>
+        <p><%= el.balance %></p>
+    <% }) %>
 </body>
 </html>

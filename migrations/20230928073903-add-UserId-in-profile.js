@@ -10,21 +10,9 @@ module.exports = {
         key: "id"
       }
     })
-    /**
-     * Add altering commands here.
-     *
-     * Example:
-     * await queryInterface.createTable('users', { id: Sequelize.INTEGER });
-     */
   },
 
   down (queryInterface, Sequelize) {
     return queryInterface.removeColumn("Profiles","UserId",{})
-    /**
-     * Add reverting commands here.
-     *
-     * Example:
-     * await queryInterface.dropTable('users');
-     */
   }
 };
