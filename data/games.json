@@ -1,0 +1,62 @@
+[
+    {
+        "name": "DOYA 2",
+        "category": "MOBA",
+        "price": 0,
+        "trailer": "https://www.youtube.com/watch?v=-cSFPIwMEq4"
+    },
+    {
+        "name": "Saiberpunk 2077",
+        "category": "RPG",
+        "price": 400000,
+        "trailer": "https://www.youtube.com/watch?v=kfX9n_G0N2Y"
+    },
+    {
+        "name": "Baldur's Door 3",
+        "category": "RPG",
+        "price": 700000,
+        "trailer": "https://www.youtube.com/watch?v=XuCfkgaaa08"
+    },
+    {
+        "name": "Counter Pulsa 2",
+        "category": "FPS",
+        "price": 200000,
+        "trailer": "https://www.youtube.com/watch?v=nSE38xjMLqE"
+    },
+    {
+        "name": "League of Lol",
+        "category": "MOBA",
+        "price": 10000,
+        "trailer": "https://www.youtube.com/watch?v=BEbPi89HZ0I"
+    },
+    {
+        "name": "Valo",
+        "category": "FPS",
+        "price": 0,
+        "trailer": "https://www.youtube.com/watch?v=lWr6dhTcu-E"
+    },
+    {
+        "name": "Pabji",
+        "category": "FPS",
+        "price": 100000,
+        "trailer": "https://www.youtube.com/watch?v=OUeQjwzSbc4"
+    },
+    {
+        "name": "Gigantic",
+        "category": "MOBA",
+        "price": 50000,
+        "trailer": "https://www.youtube.com/watch?v=muLx0HxqWh0"
+    },
+    {
+        "name": "SUFFER RING",
+        "category": "RPG",
+        "price": 400000,
+        "trailer": "https://www.youtube.com/watch?v=AKXiKBnzpBQ"
+    },
+    {
+        "name": "Monster Hunter Wow",
+        "category": "RPG",
+        "price": 250000,
+        "trailer": "https://www.youtube.com/watch?v=Ro6r15wzp2o"
+    }
+]
