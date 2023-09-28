@@ -8,11 +8,33 @@ class Controller {
     static postRegister(req, res) {
         const {username, password, role} = req.body
         User.create({username, password, role})
-        .then((_) => {
-            res.redirect("/login")
+        .then((newUser) => {
+            const userId = newUser.id
+            res.redirect(`/register/profile?id=${userId}`)
         })
         .catch((err) => {
             res.send(err)
+        })
+    }
+    static showCreateProfile(req, res) {
+        // res.send(req.params)
+        const userId = req.params.id
+        User.findByPk(userId)
+        .then((userId) => {
+            res.render("profileForm", {userId})
+        })
+        .catch((err) => {
+            res.send(err)
+        })
+    }
+    static postCreateProfile(req, res) {
+        const {nickname, picture, balance, UserId} = req.body
+        Profile.create({nickname, picture, balance, UserId})
+        .then((newProfile) => { //! periksa perlu atau tidak
+            res.redirect("/login")
+        })
+        .catch((err) => {
+            res.send(err.message)
         })
     }
     static showLogin(req, res) {
@@ -57,6 +79,15 @@ class Controller {
         })
         .catch((err) => {
             res.send(err.message)
+        })
+    }
+    static postLogout(req, res) {
+        req.session.destroy((err) => {
+            if (err) {
+                console.log(err);
+            } else {
+                res.redirect("/login")
+            }
         })
     }
 }

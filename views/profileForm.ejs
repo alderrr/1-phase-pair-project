@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>ABOUT</h1>
+    <p>Set your profile name and details. Providing additional information can help friends find you on the community</p>
+    <%= userId %>
+    <form action="/register/profile" method="post">
+        <div>
+            <label for="">Nickname</label>
+            <input type="text" name="nickname" placeholder="" autocomplete="off">
+        </div>
+        <div>
+            <label for="">Profile Picture Link</label>
+            <input type="text" name="picture" placeholder="" autocomplete="off">
+        </div>
+        <div>
+            <label for="">Balance</label>
+            <input type="number" name="balance" autocomplete="off">
+        </div>
+        <div>
+            <input type="hidden" name="UserId" value="<%= userId %>">
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
