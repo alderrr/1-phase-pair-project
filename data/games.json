@@ -1,0 +1,72 @@
+[
+    {
+        "name": "DOYA 2",
+        "category": "MOBA",
+        "price": 0,
+        "trailer": "https://www.youtube.com/watch?v=-cSFPIwMEq4",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg"
+    },
+    {
+        "name": "Warprem",
+        "category": "MOBA",
+        "price": 50000,
+        "trailer": "https://www.youtube.com/watch?v=MsbL8lFHrZI",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg"
+    },
+    {
+        "name": "Terrasukaria",
+        "category": "RPG",
+        "price": 100000,
+        "trailer": "https://www.youtube.com/watch?v=6nUvWkD8rAE",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg"
+    },
+    {
+        "name": "Counter Pulsa 2",
+        "category": "FPS",
+        "price": 200000,
+        "trailer": "https://www.youtube.com/watch?v=nSE38xjMLqE",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg"
+    },
+    {
+        "name": "Epic Legends",
+        "category": "FPS",
+        "price": 10000,
+        "trailer": "https://www.youtube.com/watch?v=oQtHENM_GZU",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg"
+    },
+    {
+        "name": "Aimlebs",
+        "category": "FPS",
+        "price": 30000,
+        "trailer": "https://www.youtube.com/watch?v=TbpzIh3sp0Y",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/714010/header.jpg"
+    },
+    {
+        "name": "Pabji",
+        "category": "FPS",
+        "price": 100000,
+        "trailer": "https://www.youtube.com/watch?v=OUeQjwzSbc4",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg"
+    },
+    {
+        "name": "Fall Gais",
+        "category": "MOBA",
+        "price": 50000,
+        "trailer": "https://www.youtube.com/watch?v=Wj3dUvGLjNQ",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg"
+    },
+    {
+        "name": "SUFFER RING",
+        "category": "RPG",
+        "price": 400000,
+        "trailer": "https://www.youtube.com/watch?v=AKXiKBnzpBQ",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg"
+    },
+    {
+        "name": "Monster Hunter Wow",
+        "category": "RPG",
+        "price": 250000,
+        "trailer": "https://www.youtube.com/watch?v=Ro6r15wzp2o",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg"
+    }
+]
