@@ -3,60 +3,70 @@
         "name": "DOYA 2",
         "category": "MOBA",
         "price": 0,
-        "trailer": "https://www.youtube.com/watch?v=-cSFPIwMEq4"
+        "trailer": "https://www.youtube.com/embed/-cSFPIwMEq4",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg"
     },
     {
-        "name": "Saiberpunk 2077",
-        "category": "RPG",
-        "price": 400000,
-        "trailer": "https://www.youtube.com/watch?v=kfX9n_G0N2Y"
+        "name": "Warprem",
+        "category": "MOBA",
+        "price": 50000,
+        "trailer": "https://www.youtube.com/embed/MsbL8lFHrZI",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg"
     },
     {
-        "name": "Baldur's Door 3",
+        "name": "Terrasukaria",
         "category": "RPG",
-        "price": 700000,
-        "trailer": "https://www.youtube.com/watch?v=XuCfkgaaa08"
+        "price": 100000,
+        "trailer": "https://www.youtube.com/embed/6nUvWkD8rAE",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg"
     },
     {
         "name": "Counter Pulsa 2",
         "category": "FPS",
         "price": 200000,
-        "trailer": "https://www.youtube.com/watch?v=nSE38xjMLqE"
+        "trailer": "https://www.youtube.com/embed/nSE38xjMLqE",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg"
     },
     {
-        "name": "League of Lol",
-        "category": "MOBA",
-        "price": 10000,
-        "trailer": "https://www.youtube.com/watch?v=BEbPi89HZ0I"
-    },
-    {
-        "name": "Valo",
+        "name": "Epic Legends",
         "category": "FPS",
-        "price": 0,
-        "trailer": "https://www.youtube.com/watch?v=lWr6dhTcu-E"
+        "price": 10000,
+        "trailer": "https://www.youtube.com/embed/oQtHENM_GZU",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg"
+    },
+    {
+        "name": "Aimlebs",
+        "category": "FPS",
+        "price": 30000,
+        "trailer": "https://www.youtube.com/embed/TbpzIh3sp0Y",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/714010/header.jpg"
     },
     {
         "name": "Pabji",
         "category": "FPS",
         "price": 100000,
-        "trailer": "https://www.youtube.com/watch?v=OUeQjwzSbc4"
+        "trailer": "https://www.youtube.com/embed/OUeQjwzSbc4",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg"
     },
     {
-        "name": "Gigantic",
+        "name": "Fall Gais",
         "category": "MOBA",
         "price": 50000,
-        "trailer": "https://www.youtube.com/watch?v=muLx0HxqWh0"
+        "trailer": "https://www.youtube.com/embed/Wj3dUvGLjNQ",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg"
     },
     {
         "name": "SUFFER RING",
         "category": "RPG",
         "price": 400000,
-        "trailer": "https://www.youtube.com/watch?v=AKXiKBnzpBQ"
+        "trailer": "https://www.youtube.com/embed/AKXiKBnzpBQ",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg"
     },
     {
         "name": "Monster Hunter Wow",
         "category": "RPG",
         "price": 250000,
-        "trailer": "https://www.youtube.com/watch?v=Ro6r15wzp2o"
+        "trailer": "https://www.youtube.com/embed/Ro6r15wzp2o",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg"
     }
 ]
